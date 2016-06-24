@@ -1,0 +1,139 @@
+Log:
+-------------------------------
+Old name: istanbul.jpg
+New name: istanbul.jpg
+-------------------------------
+Old name: karachi.jpg
+New name: karachi.jpg
+-------------------------------
+Old name: dallas.jpg
+New name: dallas.jpg
+-------------------------------
+Old name: bangalore.jpg
+New name: bangalore.jpg
+-------------------------------
+Old name: houston.jpg
+New name: houston.jpg
+-------------------------------
+Old name: london.jpg
+New name: london.jpg
+-------------------------------
+Old name: bristol.jpg
+New name: bristol.jpg
+-------------------------------
+Old name: colombo.jpg
+New name: colombo.jpg
+-------------------------------
+Old name: hyderabad.jpg
+New name: hyderabad.jpg
+-------------------------------
+Old name: san diego.jpg
+New name: san diego.jpg
+-------------------------------
+Old name: .DS_Store
+New name: .DS_Store
+-------------------------------
+Old name: chennai.jpg
+New name: chennai.jpg
+-------------------------------
+Old name: delhi.jpg
+New name: delhi.jpg
+-------------------------------
+Old name: manchester.jpg
+New name: manchester.jpg
+-------------------------------
+Old name: los angeles.jpg
+New name: los angeles.jpg
+-------------------------------
+Old name: seoul.jpg
+New name: seoul.jpg
+-------------------------------
+Old name: oakland.jpg
+New name: oakland.jpg
+-------------------------------
+Old name: new york.jpg
+New name: new york.jpg
+-------------------------------
+Old name: edinbrugh.jpg
+New name: edinbrugh.jpg
+-------------------------------
+Old name: berkeley.jpg
+New name: berkeley.jpg
+-------------------------------
+Old name: seattle.jpg
+New name: seattle.jpg
+-------------------------------
+Old name: sydney.jpg
+New name: sydney.jpg
+-------------------------------
+Old name: singapore.jpg
+New name: singapore.jpg
+-------------------------------
+Old name: tel aviv.jpg
+New name: tel aviv.jpg
+-------------------------------
+Old name: bogota.jpg
+New name: bogota.jpg
+-------------------------------
+Old name: files.txt
+New name: files.txt
+-------------------------------
+Old name: kiev.jpg
+New name: kiev.jpg
+-------------------------------
+Old name: ithaca.jpg
+New name: ithaca.jpg
+-------------------------------
+Old name: gainesville.jpg
+New name: gainesville.jpg
+-------------------------------
+Old name: jacksonville.jpg
+New name: jacksonville.jpg
+-------------------------------
+Old name: athens.jpg
+New name: athens.jpg
+-------------------------------
+Old name: beijing.jpg
+New name: beijing.jpg
+-------------------------------
+Old name: madrid.jpg
+New name: madrid.jpg
+-------------------------------
+Old name: miami.jpg
+New name: miami.jpg
+-------------------------------
+Old name: shanghai.jpg
+New name: shanghai.jpg
+-------------------------------
+Old name: austin.jpg
+New name: austin.jpg
+-------------------------------
+Old name: rochester.jpg
+New name: rochester.jpg
+-------------------------------
+Old name: barcelona.jpg
+New name: barcelona.jpg
+-------------------------------
+Old name: sunnyvale.jpg
+New name: sunnyvale.jpg
+-------------------------------
+Old name: chicago.jpg
+New name: chicago.jpg
+-------------------------------
+Old name: pune.jpg
+New name: pune.jpg
+-------------------------------
+Old name: cairo.jpg
+New name: cairo.jpg
+-------------------------------
+Old name: bucharest.jpg
+New name: bucharest.jpg
+-------------------------------
+Old name: san jose.jpg
+New name: san jose.jpg
+-------------------------------
+Old name: buenos aires.jpg
+New name: buenos aires.jpg
+-------------------------------
+Old name: sao paulo.jpg
+New name: sao paulo.jpg
